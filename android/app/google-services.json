@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978846804178",
+    "project_id": "sbkattendence",
+    "storage_bucket": "sbkattendence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978846804178:android:6fe9d49c27dbde3384e50b",
+        "android_client_info": {
+          "package_name": "com.sbkattendence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978846804178-tfh82nsrnnecmv10cpobeif30ku8v9k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeZrpcvZH9HZ-zZIWbDeQJvscT1bmI4hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978846804178-tfh82nsrnnecmv10cpobeif30ku8v9k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
